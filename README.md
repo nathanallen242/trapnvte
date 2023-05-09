@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
+<h3 align="center">Aspiring SWE from The Bahamas🇧🇸</h3>
+
 - 🌱 I’m currently learning **full-stack development**
 
 - 📫 How to reach me **nathan.noel.allen@gmail.com**
