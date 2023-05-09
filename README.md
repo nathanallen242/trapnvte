@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<img align="right" alt="Coding" width="400" src= "https://ask.libreoffice.org/uploads/asklibo/original/3X/3/5/35664d063435f940bda4cb3bb31ea0a6c5fed2f4.gif">
+<img align="right" alt="Coding" width="300" src= "https://ask.libreoffice.org/uploads/asklibo/original/3X/3/5/35664d063435f940bda4cb3bb31ea0a6c5fed2f4.gif">
 
 - 🌱 I’m currently learning **full-stack development**
 
