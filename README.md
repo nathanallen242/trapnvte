@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">Aspiring SWE</h3>
 
 - 🌱 Rising junior at the University of South Florida
 - 👨‍💻 I’m currently learning: **full-stack web development**
