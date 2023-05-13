@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
+<h3 align="center">Aspiring SWE</h3>
 
-- 🌱 I’m currently learning **full-stack development**
-- 📫 How to reach me **allen243@usf.edu**
+- 🌱 Rising junior at the University of South Florida
+- 👨‍💻 I’m currently learning: **full-stack web development**
+- 📫 How to reach me: **allen243@usf.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
