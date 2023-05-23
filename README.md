@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 
 - 🌱 Rising junior at the University of South Florida
-- 👨‍💻 I’m currently learning: **DevOps** & **Full-stack web development**
+- 👨‍💻 I’m currently learning: **Dev(Net)Ops** & **Full-stack web development**
 - 📫 How to reach me: **allen243@usf.edu**
 
 <h3 align="left">Connect with me:</h3>
